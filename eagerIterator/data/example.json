@@ -1,0 +1,1099 @@
+{
+  "metaInfo": {
+    "id": "7d0cc914-755d-46d7-a0f5-3efa6c283433",
+    "name": "Lake Biscuit Release",
+    "code": "LBR",
+    "type": "forecast",
+    "properties": {
+      "test": "foo"
+    },
+    "groups": [
+      {
+        "groupId": "3c115353-93c1-49c9-bc6f-4d8532154b78",
+        "description": "Ensemble 1"
+      },
+      {
+        "groupId": "84aeb351-9594-444e-8adf-21e36ae82a80",
+        "description": "HMS Model Simulation"
+      }
+    ],
+    "source": {
+      "name": "Lake Biscuit Operating Authority",
+      "code": "LBOA"
+    },
+    "sourceLocation": {
+      "name": "Lake Biscuit Dam",
+      "code": "5315315",
+      "elevation": {
+        "value": 100.0,
+        "units": "ft",
+        "datum": "NAVD88"
+      }
+    },
+    "parameter": {
+      "name": "Streamflow",
+      "code": "QIN",
+      "units": "cfs",
+      "statistic": "Instantaneous"
+    },
+    "timeInfo": {
+      "referenceTime": "2020-04-07T19:30:36.241398Z",
+      "start": "2000-01-01T00:00:00Z",
+      "end": "2000-01-06T00:00:00Z",
+      "interval": "PT1H"
+    },
+    "origin": {
+      "description": "Calculated hourly mean from raw timeseries",
+      "referenceIds": [
+        "3e60e3c5-0bd0-4da2-81f2-bcbfeada355f",
+        "224dc8ba-d7ab-4594-b1de-d136019df0fe"
+      ]
+    }
+  },
+  "data": [
+    {
+      "datetime": "2000-01-01T05:00:00Z",
+      "value": {
+        "floatValue": 8.977901458740234
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T06:00:00Z",
+      "value": {
+        "floatValue": 80.83607482910156
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T07:00:00Z",
+      "value": {
+        "floatValue": 45.29679870605469
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T08:00:00Z",
+      "value": {
+        "floatValue": 34.74374008178711
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T09:00:00Z",
+      "value": {
+        "floatValue": 25.79920768737793
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T10:00:00Z",
+      "value": {
+        "floatValue": 95.84122467041016
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T11:00:00Z",
+      "value": {
+        "floatValue": 19.75713539123535
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T12:00:00Z",
+      "value": {
+        "floatValue": 40.07620620727539
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T13:00:00Z",
+      "value": {
+        "floatValue": 60.235313415527344
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T14:00:00Z",
+      "value": {
+        "floatValue": 0.3938830494880676
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T15:00:00Z",
+      "value": {
+        "floatValue": 45.615196228027344
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T16:00:00Z",
+      "value": {
+        "floatValue": 51.02838134765625
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T17:00:00Z",
+      "value": {
+        "floatValue": 15.54450511932373
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T18:00:00Z",
+      "value": {
+        "floatValue": 84.08563232421875
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T19:00:00Z",
+      "value": {
+        "floatValue": 30.8421630859375
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T20:00:00Z",
+      "value": {
+        "floatValue": 8.944747924804688
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T21:00:00Z",
+      "value": {
+        "floatValue": 17.811330795288086
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T22:00:00Z",
+      "value": {
+        "floatValue": 40.176021575927734
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-01T23:00:00Z",
+      "value": {
+        "floatValue": 83.71268463134766
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T00:00:00Z",
+      "value": {
+        "floatValue": 54.49222183227539
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T01:00:00Z",
+      "value": {
+        "floatValue": 68.16057586669922
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T02:00:00Z",
+      "value": {
+        "floatValue": 45.3355598449707
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T03:00:00Z",
+      "value": {
+        "floatValue": 13.781875610351562
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T04:00:00Z",
+      "value": {
+        "floatValue": 1.9012413024902344
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T05:00:00Z",
+      "value": {
+        "floatValue": 68.15303802490234
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T06:00:00Z",
+      "value": {
+        "floatValue": 39.98452377319336
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T07:00:00Z",
+      "value": {
+        "floatValue": 54.38520431518555
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T08:00:00Z",
+      "value": {
+        "floatValue": 68.09620666503906
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T09:00:00Z",
+      "value": {
+        "floatValue": 32.33448791503906
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T10:00:00Z",
+      "value": {
+        "floatValue": 48.99846267700195
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T11:00:00Z",
+      "value": {
+        "floatValue": 95.50359344482422
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T12:00:00Z",
+      "value": {
+        "floatValue": 9.744163513183594
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T13:00:00Z",
+      "value": {
+        "floatValue": 57.76018524169922
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T14:00:00Z",
+      "value": {
+        "floatValue": 51.812259674072266
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T15:00:00Z",
+      "value": {
+        "floatValue": 82.09590148925781
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T16:00:00Z",
+      "value": {
+        "floatValue": 73.4045181274414
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T17:00:00Z",
+      "value": {
+        "floatValue": 43.588565826416016
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T18:00:00Z",
+      "value": {
+        "floatValue": 55.252681732177734
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T19:00:00Z",
+      "value": {
+        "floatValue": 79.56391143798828
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T20:00:00Z",
+      "value": {
+        "floatValue": 36.03390884399414
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T21:00:00Z",
+      "value": {
+        "floatValue": 97.23482513427734
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T22:00:00Z",
+      "value": {
+        "floatValue": 2.077939510345459
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-02T23:00:00Z",
+      "value": {
+        "floatValue": 58.94525146484375
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T00:00:00Z",
+      "value": {
+        "floatValue": 10.104391098022461
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T01:00:00Z",
+      "value": {
+        "floatValue": 69.46073150634766
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T02:00:00Z",
+      "value": {
+        "floatValue": 60.400203704833984
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T03:00:00Z",
+      "value": {
+        "floatValue": 91.8357162475586
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T04:00:00Z",
+      "value": {
+        "floatValue": 10.279899597167969
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T05:00:00Z",
+      "value": {
+        "floatValue": 49.75899887084961
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T06:00:00Z",
+      "value": {
+        "floatValue": 14.888898849487305
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T07:00:00Z",
+      "value": {
+        "floatValue": 74.3180160522461
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T08:00:00Z",
+      "value": {
+        "floatValue": 92.65232849121094
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T09:00:00Z",
+      "value": {
+        "floatValue": 40.8363151550293
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T10:00:00Z",
+      "value": {
+        "floatValue": 45.59850311279297
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T11:00:00Z",
+      "value": {
+        "floatValue": 98.41239166259766
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T12:00:00Z",
+      "value": {
+        "floatValue": 92.46053314208984
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T13:00:00Z",
+      "value": {
+        "floatValue": 52.68919372558594
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T14:00:00Z",
+      "value": {
+        "floatValue": 67.94325256347656
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T15:00:00Z",
+      "value": {
+        "floatValue": 22.735429763793945
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T16:00:00Z",
+      "value": {
+        "floatValue": 84.94266510009766
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T17:00:00Z",
+      "value": {
+        "floatValue": 65.12559509277344
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T18:00:00Z",
+      "value": {
+        "floatValue": 46.65770721435547
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T19:00:00Z",
+      "value": {
+        "floatValue": 26.996601104736328
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T20:00:00Z",
+      "value": {
+        "floatValue": 69.44203186035156
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T21:00:00Z",
+      "value": {
+        "floatValue": 62.6600456237793
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T22:00:00Z",
+      "value": {
+        "floatValue": 32.41822052001953
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-03T23:00:00Z",
+      "value": {
+        "floatValue": 41.66982650756836
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T00:00:00Z",
+      "value": {
+        "floatValue": 61.550655364990234
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T01:00:00Z",
+      "value": {
+        "floatValue": 2.414534568786621
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T02:00:00Z",
+      "value": {
+        "floatValue": 96.44709014892578
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T03:00:00Z",
+      "value": {
+        "floatValue": 92.88016510009766
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T04:00:00Z",
+      "value": {
+        "floatValue": 79.19449615478516
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T05:00:00Z",
+      "value": {
+        "floatValue": 30.694616317749023
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T06:00:00Z",
+      "value": {
+        "floatValue": 74.0990982055664
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T07:00:00Z",
+      "value": {
+        "floatValue": 85.74590301513672
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T08:00:00Z",
+      "value": {
+        "floatValue": 88.72067260742188
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T09:00:00Z",
+      "value": {
+        "floatValue": 23.03591537475586
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T10:00:00Z",
+      "value": {
+        "floatValue": 42.625
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T11:00:00Z",
+      "value": {
+        "floatValue": 19.48201560974121
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T12:00:00Z",
+      "value": {
+        "floatValue": 26.55196189880371
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T13:00:00Z",
+      "value": {
+        "floatValue": 5.279695987701416
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T14:00:00Z",
+      "value": {
+        "floatValue": 30.527450561523438
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T15:00:00Z",
+      "value": {
+        "floatValue": 19.42266082763672
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T16:00:00Z",
+      "value": {
+        "floatValue": 21.49348258972168
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T17:00:00Z",
+      "value": {
+        "floatValue": 92.92430877685547
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T18:00:00Z",
+      "value": {
+        "floatValue": 18.575590133666992
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T19:00:00Z",
+      "value": {
+        "floatValue": 83.64070892333984
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T20:00:00Z",
+      "value": {
+        "floatValue": 96.21680450439453
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T21:00:00Z",
+      "value": {
+        "floatValue": 97.71994018554688
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T22:00:00Z",
+      "value": {
+        "floatValue": 52.86602020263672
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-04T23:00:00Z",
+      "value": {
+        "floatValue": 16.34602928161621
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T00:00:00Z",
+      "value": {
+        "floatValue": 5.38266658782959
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T01:00:00Z",
+      "value": {
+        "floatValue": 62.23779296875
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T02:00:00Z",
+      "value": {
+        "floatValue": 51.872920989990234
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T03:00:00Z",
+      "value": {
+        "floatValue": 9.925488471984863
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T04:00:00Z",
+      "value": {
+        "floatValue": 7.56742525100708
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T05:00:00Z",
+      "value": {
+        "floatValue": 22.742944717407227
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T06:00:00Z",
+      "value": {
+        "floatValue": 35.66012191772461
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T07:00:00Z",
+      "value": {
+        "floatValue": 3.0913608074188232
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T08:00:00Z",
+      "value": {
+        "floatValue": 8.572884559631348
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T09:00:00Z",
+      "value": {
+        "floatValue": 80.9711685180664
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T10:00:00Z",
+      "value": {
+        "floatValue": 7.728271007537842
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T11:00:00Z",
+      "value": {
+        "floatValue": 1.1073243618011475
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T12:00:00Z",
+      "value": {
+        "floatValue": 62.077449798583984
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T13:00:00Z",
+      "value": {
+        "floatValue": 52.7028694152832
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T14:00:00Z",
+      "value": {
+        "floatValue": 81.2264633178711
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T15:00:00Z",
+      "value": {
+        "floatValue": 33.99546813964844
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T16:00:00Z",
+      "value": {
+        "floatValue": 92.45590209960938
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T17:00:00Z",
+      "value": {
+        "floatValue": 92.51456451416016
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T18:00:00Z",
+      "value": {
+        "floatValue": 80.95974731445312
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T19:00:00Z",
+      "value": {
+        "floatValue": 91.79701232910156
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T20:00:00Z",
+      "value": {
+        "floatValue": 38.878360748291016
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T21:00:00Z",
+      "value": {
+        "floatValue": 49.16343688964844
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T22:00:00Z",
+      "value": {
+        "floatValue": 29.67487144470215
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-05T23:00:00Z",
+      "value": {
+        "floatValue": 32.65192794799805
+      },
+      "qualifiers": [
+        "p"
+      ]
+    },
+    {
+      "datetime": "2000-01-06T00:00:00Z",
+      "value": {
+        "floatValue": 13.027857780456543
+      },
+      "qualifiers": [
+        "p"
+      ]
+    }
+  ]
+}

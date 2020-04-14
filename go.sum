@@ -1,0 +1,4 @@
+github.com/ICTatRTI/amanzi-timeseries/go-amanzi v0.0.0-20200414211149-ff72fb1d4b8e h1:mqMfjocm0KA73JfGD2SqF5ruTMOofLr+H/vBDLci6mo=
+github.com/ICTatRTI/amanzi-timeseries/go-amanzi v0.0.0-20200414211149-ff72fb1d4b8e/go.mod h1:w7n4t3IRiuAsQ09PAEyvBB924LCGJLYUB02s1SI92nk=
+github.com/golang/protobuf v1.3.5 h1:F768QJ1E9tib+q5Sc8MkdJi1RxLTbRcTf8LJV56aRls=
+github.com/golang/protobuf v1.3.5/go.mod h1:6O5/vntMXwX2lRkT1hjjk0nAC1IDOTvTlVgjlRvqsdk=
